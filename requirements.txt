@@ -1,0 +1,11 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+gunicorn==21.2.0
+httpx==0.25.0
+motor==3.3.1
+pytz==2023.3.post1
+python-multipart==0.0.6
+pydantic==2.3.0
+python-dotenv==1.0.0
+cachetools==5.3.1
+aiocache==0.12.1
